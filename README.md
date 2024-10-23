@@ -1,4 +1,4 @@
-# Hello from pod
+# Blue Green Demo
 
 A basic pod that allows you to demo blue/green deployments. 
 
